@@ -1,0 +1,12 @@
+INFO:root:
+==Application startingINFO:root:
+==Application starting
+
+INFO:message_receiver:Starting a message receiver
+INFO:message_receiver:Message receiver is connected to the network.
+INFO:message_receiver:Attempting to bind the socket to the channel port.
+INFO:server:Server initialized.
+INFO:message_receiver:Socket bound successfully.
+INFO:server:Server processing started.
+INFO:message_receiver:A message was passed to the message receiver.
+INFO:server:Message received from registered client.
