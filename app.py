@@ -8,7 +8,7 @@ class App:
         self.root = root
         self.root.resizable(False, False)
         self.root.configure(padx=10, pady=10, bg=DARK_BLUE)
-        self.root.title("Mutter")
+        self.root.title("Whisper")
 
         self.current_frame = MainMenu(self.root,
                                 self.create_client_menu,
