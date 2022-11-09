@@ -1,5 +1,5 @@
 # Whisper
-A simple CLI chat application made in Python using sockets.
+A CLI chat application made in Python using sockets.
 
 ## Developers
 - Andrew Ramirez | [drewRam](https://github.com/drewRam)
